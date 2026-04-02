@@ -2,6 +2,9 @@
 
 This repository contains the server for an arcade Sci-Fi Endless Runner game for mobile devices.
 
+**Wondering about `#[foreign_key]`s, unique multi-column indices, `#[hook]`s, plural table names and other cool stuff you can find in this repository?**
+This repository uses [**SpacetimeDSL**](https://github.com/tamaro-skaljic/SpacetimeDSL), _the SpacetimeDB Rust Server Module meta-framework_!
+
 ## Table of Contents
 
 - [Source Files](#source-files)
