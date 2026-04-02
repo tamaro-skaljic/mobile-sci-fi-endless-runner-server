@@ -1,29 +1,27 @@
-# Sci-Fi Endless Runner Server & Client SDK
+# Mobile Sci-Fi Endless Runner Server
 
-This repository contains the server as well as the client SDK for an arcade Sci-Fi Endless Runner game for mobile devices.
+This repository contains the server for an arcade Sci-Fi Endless Runner game for mobile devices.
 
 ## Table of Contents
 
-- [Sci-Fi Endless Runner Server \& Client SDK](#sci-fi-endless-runner-server--client-sdk)
-  - [Table of Contents](#table-of-contents)
-  - [Source Files](#source-files)
-    - [Root Modules](#root-modules)
-    - [Tables (`src/tables/`)](#tables-srctables)
-    - [Reducers (`src/reducers/`)](#reducers-srcreducers)
-    - [Admin (`src/admin/`)](#admin-srcadmin)
-    - [Checks (`src/checks/`)](#checks-srcchecks)
-    - [Views (`src/views/`)](#views-srcviews)
-    - [Energy (`src/energy/`)](#energy-srcenergy)
-    - [Shop (`src/shop/`)](#shop-srcshop)
-    - [Hooks (`src/hooks/`)](#hooks-srchooks)
-    - [Scheduled Functions (`src/scheduled_functions/`)](#scheduled-functions-srcscheduled_functions)
-    - [Procedures (`src/procedures/`)](#procedures-srcprocedures)
-  - [Honorable Features](#honorable-features)
-    - [Energy System](#energy-system)
-    - [Cheat Detection \& Logging](#cheat-detection--logging)
-    - [Player Name Moderation](#player-name-moderation)
-    - [In App Purchase Verification](#in-app-purchase-verification)
-  - [📜 Licensing](#-licensing)
+- [Source Files](#source-files)
+  - [Root Modules](#root-modules)
+  - [Tables (`src/tables/`)](#tables-srctables)
+  - [Reducers (`src/reducers/`)](#reducers-srcreducers)
+  - [Admin (`src/admin/`)](#admin-srcadmin)
+  - [Checks (`src/checks/`)](#checks-srcchecks)
+  - [Views (`src/views/`)](#views-srcviews)
+  - [Energy (`src/energy/`)](#energy-srcenergy)
+  - [Shop (`src/shop/`)](#shop-srcshop)
+  - [Hooks (`src/hooks/`)](#hooks-srchooks)
+  - [Scheduled Functions (`src/scheduled_functions/`)](#scheduled-functions-srcscheduled_functions)
+  - [Procedures (`src/procedures/`)](#procedures-srcprocedures)
+- [Honorable Features](#honorable-features)
+  - [Energy System](#energy-system)
+  - [Cheat Detection \& Logging](#cheat-detection--logging)
+  - [Player Name Moderation](#player-name-moderation)
+  - [In App Purchase Verification](#in-app-purchase-verification)
+- [📜 Licensing](#-licensing)
 
 ## Source Files
 

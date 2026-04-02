@@ -1,5 +1,5 @@
 [package]
-name = "sci-fi-endless-runner-server"
+name = "mobile-sci-fi-endless-runner-server"
 version = "0.1.0"
 edition = "2024"
 

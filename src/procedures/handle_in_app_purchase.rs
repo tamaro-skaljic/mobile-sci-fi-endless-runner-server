@@ -16,7 +16,7 @@ use crate::{
     },
 };
 
-const PACKAGE_NAME: &str = "localhost.scifiendlessrunner";
+const PACKAGE_NAME: &str = "mobile-sci-fi-endless-runner"; // Note: This is not a valid package name.
 
 const PRODUCT_ID_FIVE: &str = "gems_five";
 const PRODUCT_ID_TWENTY_FIVE: &str = "gems_twenty_five";
