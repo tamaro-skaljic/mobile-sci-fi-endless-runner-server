@@ -1,0 +1,3 @@
+# CLAUDE Instructions
+
+See [AGENTS.md](AGENTS.md).
